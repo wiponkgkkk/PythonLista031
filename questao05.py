@@ -10,4 +10,4 @@ res = sal + (sal*0.15)
 
 #Prints
 
-print(f"O valor de seu salário com aumento de 15% é: {res}R$")
+print(f"O valor de seu salário com aumento de 15% é: R${res}")
