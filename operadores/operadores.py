@@ -43,3 +43,18 @@ print(logic1)
 print(not logic1)
 print(logic1 or logic2)
 print(logic1 and logic2)
+
+c = a != b
+
+print(f"c: {c}")
+print(f"tipo da var c: {type(c)}")
+
+logic1 = True
+logic2 = False
+print(f"type(logic1: {type(logic1)}")
+print(f"type(logic2: {type(logic2)}")
+
+print(f"logic1: {logic1}")
+print(f"not logic1: {not logic1}")
+print(f"logic1 or logic2: {logic1 or logic2}")
+print(f"logic1 and logic2: {logic1 and logic2}")
